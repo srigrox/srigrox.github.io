@@ -2,7 +2,7 @@
 
 This repository is your starting point for the assignment and includes the instructions below. 
 
-Link to GitHub pages website: `[insert your hyperlink here]`
+Link to GitHub pages website: `https://github.com/NEU-DS-4200-F20/assignment-introduction-to-web-development-srigrox`
 
 
 ## Aim of the Assignment:
